@@ -21,7 +21,7 @@ For example:
 
 To what floor do the instructions take Santa?
 
-To begin, [get your puzzle input](https://adventofcode.com/2015/day/1/input).
+To begin, [get your puzzle input](https://adventofcode.com/2015/day/1/input).<br><br>
 
 --- Part Two ---<br>
 Now, given the same instructions, find the position of the first character that causes him to enter the basement (floor -1). The first character in the instructions has position 1, the second character has position 2, and so on.
